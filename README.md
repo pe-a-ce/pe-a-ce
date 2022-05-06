@@ -1,7 +1,13 @@
-### Hi there 👋
+### ✨ Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Peace ✨ 
+
+
+- :computer: I’m currently working on improving my programming skills and becoming a competent software engineer!
+- :cherry_blossom: I’m learning Java, HTML, CSS and JS as a BNTA coding bootcamp student!
+- :two_hearts: I’m looking forward to collaborating and creating interesting projects!
+- :email: How to reach me: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/peaceakib/)
 
 <!--
-**pe-a-ce/pe-a-ce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**pe-a-ce/pe-a-ce**  is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
