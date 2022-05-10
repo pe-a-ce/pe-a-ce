@@ -1,4 +1,10 @@
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" width="100"/>
+
+
 ### ✨ Hi, my name is Peace <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">✨ 
+</div>
 
 
 - 💁🏾‍♀️ I transitioned into tech in 2022! 
