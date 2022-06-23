@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" width="100"/>
 
 
-### ✨ Hi, my name is Peace <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">✨ 
+### ✨ Hi, my name is Peace ✨ 
 </div>
 
 
@@ -36,6 +36,7 @@
 <!--
 
 **pe-a-ce/pe-a-ce**  is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 Here are some ideas to get you started:
 
